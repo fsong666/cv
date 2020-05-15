@@ -40,3 +40,6 @@
 *.exe
 *.out
 *.app
+*.cpp.swp
+*.mp4
+*.avi
